@@ -31,7 +31,14 @@ yarn-error.*
 *.pem
 
 # local env files
+.env
 .env*.local
+
+# 제품 요구사항 정의서
+*.md
+!CLAUDE.md
+!AGENTS.md
+!README.md
 
 # typescript
 *.tsbuildinfo
