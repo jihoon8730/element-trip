@@ -1,15 +1,15 @@
 {
   "expo": {
-    "name": "element-trip",
-    "slug": "element-trip",
+    "name": "바킬",
+    "slug": "bakil",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
-    "scheme": "elementtrip",
+    "scheme": "bakil",
     "userInterfaceStyle": "automatic",
     "ios": {
       "icon": "./assets/expo.icon",
-      "bundleIdentifier": "com.jihoon8730.elementtrip",
+      "bundleIdentifier": "com.jihoon8730.bakil",
       "infoPlist": {
         "ITSAppUsesNonExemptEncryption": false
       }
